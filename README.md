@@ -2,7 +2,7 @@
   <img src="./assests/banner.png.jpeg" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">✨ AVANTIKA ✨</h1>
+<h1 align="center">✨ AVANTIKA R ✨</h1>
 
 <p align="center">
   <b>Dream • Build • Evolve</b>

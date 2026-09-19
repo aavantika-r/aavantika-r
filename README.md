@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png.jpeg" width="100%" alt="Banner"/>
+  <img src="./assests/banner.png.jpeg" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">✨ AVANTIKA ✨</h1>

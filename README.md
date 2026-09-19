@@ -1,62 +1,46 @@
 <p align="center">
-
-&#x20; <img src="./assets/banner.png" width="100%" alt="Banner"/>
-
+  <img src="./assets/banner.png.jpeg" width="100%" alt="Banner"/>
 </p>
 
-
-
-<h1 align="center">Hi, I'm Avantika 👋</h1>
-
-
+<h1 align="center">✨ AVANTIKA ✨</h1>
 
 <p align="center">
-
-&#x20; Curious • Creative • Consistent
-
+  <b>Dream • Build • Evolve</b>
 </p>
-
-
-
-\---
-
-
-
-\### About
-
-
-
-I enjoy building things, solving problems, and growing through consistency.
-
-
-
-> \*Small steps lead to big progress.\*
-
-
-
-\---
-
-
-
-\### Tools
-
-
 
 <p align="center">
-
-&#x20; <img src="https://skillicons.dev/icons?i=linux,python,docker,aws,git,github,bash" />
-
+  🌙 Curious • Creative • Consistent 🌙
 </p>
 
+> *“Small steps lead to big progress.”*
 
+---
 
-\---
+## 🌸 About Me
 
+💜 Turning ideas into meaningful creations.
 
+🌱 Growing through consistency, discipline, and curiosity.
 
-<p align="center">
+☕ Every commit is another step toward becoming better than yesterday.
 
-&#x20; Build • Learn • Grow ✦
+---
 
-</p>
+## ✨ Philosophy
 
+```text
+Think.
+Build.
+Improve.
+Repeat.
+```
+
+---
+
+<div align="center">
+
+### 💫 Better Than Yesterday 💫
+
+🖤 Keep showing up. The results will follow.
+
+</div>
